@@ -91,7 +91,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Park, Jinhyung
 
-- [ ] Parmar, Soniya
+- [X] Parmar, Soniya 🚀 🌔
 
 - [ ] Pezzoni, Santiago
 
